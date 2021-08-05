@@ -16,4 +16,4 @@ My bachelor thesis at Vienna University of Economics and Business
 * vix_daily.csv, CBOE Volatility Index, daily, 2004-01-02 to 2020-09-02:<br/>
   http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data (downloaded 2020-09-03)
 
-2020 &copy; Christopher Hofmann
+<p align="center">2020 &copy; Christopher Hofmann</p>
