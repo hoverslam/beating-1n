@@ -1,6 +1,6 @@
 # Beating 1/N - A Machine Learning Approach
 
-My bachelor thesis written at Vienna University of Economics and Business
+My bachelor thesis written at Vienna University of Economics and Business. A Long short-term memory (LSTM) architecture is used to train a recurrent neural network on portfolio weights based on Harry Markowitz’s Modern Portfolio Theory.
 
 
 ## Data
