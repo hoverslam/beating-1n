@@ -15,5 +15,3 @@ My bachelor thesis written at Vienna University of Economics and Business. A Lon
   fetched from Yahoo Finance with pdfetch (see sp100.R)
 * vix_daily.csv, CBOE Volatility Index, daily, 2004-01-02 to 2020-09-02:<br/>
   http://www.cboe.com/products/vix-index-volatility/vix-options-and-futures/vix-index/vix-historical-data (downloaded 2020-09-03)
-
-<p align="center">2020 &copy; Christopher Hofmann</p>
